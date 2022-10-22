@@ -22,6 +22,15 @@ In this we can play/pause and change the songs by pressing forward/backward butt
 7. Congrats! Your PR should now be merged in!
 
 
-# Screenshots
-![Screenshot](screenshots/ss-1.png) 
+# Screenshots 
+
+<p align='left'>
+<img src="https://user-images.githubusercontent.com/95839946/197349121-d569a8df-60ea-43c7-9d3f-7c000decbc13.png" width="300" height="370">
+<img src="https://user-images.githubusercontent.com/95839946/197349447-9203b84f-4c05-49a7-b226-cdb8c61f5ef7.png" width="300" height="370">
+<img src="https://user-images.githubusercontent.com/95839946/197349604-50297788-901b-47da-816c-aecb0111b5a8.png" width="300" height="370">
+<img src="https://user-images.githubusercontent.com/95839946/197349669-47c681be-ab9f-465c-82bc-cd338f28d1fe.png" width="300" height="370">
+<img src="https://user-images.githubusercontent.com/95839946/197349703-957c43ad-e476-424a-8e48-3a6de4794c7a.png" width="300" height="370">
+<img src="https://user-images.githubusercontent.com/95839946/197349722-98889c24-f7bb-4944-867d-d2cf5a2e1d08.png" width="300" height="370">
+<img src="https://user-images.githubusercontent.com/95839946/197349743-70ea6e4d-9bf2-48fd-9d7e-aec77df2f3b9.png" width="300" height="370">
+</p>
 
